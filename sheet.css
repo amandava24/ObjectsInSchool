@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+body {
+    font: 18px Cambria;
+    margin: 30px;
+    background-image: url("blur-abstract-dawn-gaussian-30914.jpg");
+}
+
+input,select,button {
+    font-size: 18px;
+}
+
+table{
+    text-align: center;
+    font-family: Cambria;
+
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+th{
+    text-align: center;
+    font-color: black;
+}
+button{
+    color: dodgerblue;
+    border-radius: 8px;
+    border-color: black;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    float:top;
+}
+
